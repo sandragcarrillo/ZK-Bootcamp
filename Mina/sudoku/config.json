@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "deployAliases": {
+    "sudoku-example": {
+      "networkId": "testnet",
+      "url": "https://api.minascan.io/node/devnet/v1/graphql",
+      "keyPath": "keys/sudoku-example.json",
+      "feepayerKeyPath": "/Users/sandracarrillo/.cache/zkapp-cli/keys/testing.json",
+      "feepayerAlias": "testing",
+      "fee": "0.01",
+      "smartContract": "SudokuZkApp"
+    }
+  }
+}
